@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 , I'm Liting
+I'm a Postdoc researcher in Dublin City University.
 <!--
 **litingzhou1/litingzhou1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
